@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="number_one">Number one</string>
+    <string name="number_two">Number two</string>
+    <string name="result">Result</string>
+    <string name="divided">/</string>
+    <string name="multiplication">*</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="equals">=</string>
+    <string name="clear">C</string>
+</resources>
