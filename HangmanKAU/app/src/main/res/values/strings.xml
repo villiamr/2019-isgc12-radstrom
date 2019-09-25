@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">hangman2</string>
+    <string name="start_game">START GAME</string>
+    <string name="hangman">HANGMAN</string>
+    <string name="todo">TODO</string>
+    <string name="the_hangman_game">THE HANGMAN GAME</string>
+    <string name="start">Start</string>
+    <string name="input_a_character_here">Input a character here.</string>
+    <string name="input_your_guess_here">Input your guess here.</string>
+    <string name="guessed_letters">Guessed letters:</string>
+    <string name="todo2">TODO</string>
+    <string name="stage1">TODO</string>
+    <string name="you_lost">You lost..</string>
+    <string name="todo3">TODO</string>
+    <string name="play_again">Play again</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="main_menu2">Main Menu</string>
+    <string name="you_won">You won!</string>
+</resources>

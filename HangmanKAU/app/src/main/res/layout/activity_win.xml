@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="157dp"
+        android:gravity="center"
+        android:text="@string/you_won"
+        android:textColor="#000000"
+        android:textSize="76sp"
+        tools:text="You won!" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="189dp"
+        android:layout_height="349dp"
+        android:layout_gravity="center"
+        android:src="@drawable/up"
+        android:contentDescription="@string/todo3" />
+
+    <Button
+        android:id="@+id/playAgain"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#070707"
+        android:textSize="24sp"
+        android:fontFamily="monospace"
+        android:text="@string/play_again"
+        android:textColor="#F9F9F9" />
+
+    <Button
+        android:id="@+id/mainMenu"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#000000"
+        android:textSize="24sp"
+        android:fontFamily="monospace"
+        android:text="@string/main_menu"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
