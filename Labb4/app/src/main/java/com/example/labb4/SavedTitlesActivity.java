@@ -51,7 +51,7 @@ public class SavedTitlesActivity extends Activity {
     }
 
 
-    // Metod för att kunna ta bort en film. Inte kanske den mest effektiva men den gör sitt jobb haha.
+    // Metod för att kunna ta bort en film. 
     private void setDeleteRecords(){
         String line = null;
         String res = null;
